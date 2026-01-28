@@ -1,0 +1,12 @@
+﻿  Gamestate.cpp
+  Morpion.cpp
+C:\Users\aniezgodzki\source\repos\Morpion\Morpion\Gamestate.cpp(35,1): error C2556: 'bool Gamestate::CheckWinRow(unsigned int,unsigned int,unsigned int)' : la fonction surchargée ne diffère que par le type de retour de 'std::optional<Token> Gamestate::CheckWinRow(unsigned int,unsigned int,unsigned int)'
+      C:\Users\aniezgodzki\source\repos\Morpion\Morpion\Gamestate.h(23,24):
+      voir la déclaration de 'Gamestate::CheckWinRow'
+  
+C:\Users\aniezgodzki\source\repos\Morpion\Morpion\Gamestate.cpp(34,17): error C2371: 'Gamestate::CheckWinRow' : redéfinition ; types de base différents
+      C:\Users\aniezgodzki\source\repos\Morpion\Morpion\Gamestate.h(23,24):
+      voir la déclaration de 'Gamestate::CheckWinRow'
+  
+C:\Users\aniezgodzki\source\repos\Morpion\Morpion\Gamestate.cpp(38,3): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+  Génération de code en cours...
