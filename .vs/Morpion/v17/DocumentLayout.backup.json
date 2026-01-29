@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\Gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|solutionrelative:Morpion\\Gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\IA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|solutionrelative:Morpion\\IA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|solutionrelative:Morpion\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\Gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|solutionrelative:Morpion\\Gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B77C336-3944-4FEC-85DE-2F8D2705AA2F}|Morpion\\Morpion.vcxproj|C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\IA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IA.cpp",
               "DocumentMoniker": "C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\IA.cpp",
               "RelativeDocumentMoniker": "Morpion\\IA.cpp",
               "ToolTip": "C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\IA.cpp",
               "RelativeToolTip": "Morpion\\IA.cpp",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-29T08:24:23.961Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Morpion\\IA.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-28T10:01:14.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T10:01:14.761Z"
             },
             {
               "$type": "Document",
@@ -84,12 +83,11 @@
               "RelativeToolTip": "Morpion\\Opponent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-28T10:01:38.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T10:01:38.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\Player.h",
               "RelativeDocumentMoniker": "Morpion\\Player.h",
@@ -97,18 +95,17 @@
               "RelativeToolTip": "Morpion\\Player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-28T10:01:00.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T10:01:00.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Gamestate.cpp",
               "DocumentMoniker": "C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\Gamestate.cpp",
               "RelativeDocumentMoniker": "Morpion\\Gamestate.cpp",
               "ToolTip": "C:\\Users\\aniezgodzki\\source\\repos\\Morpion\\Morpion\\Gamestate.cpp",
               "RelativeToolTip": "Morpion\\Gamestate.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-28T08:28:32.969Z",
               "EditorCaption": ""
@@ -123,8 +120,7 @@
               "RelativeToolTip": "Morpion\\Gamestate.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-26T11:15:31.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T11:15:31.722Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "Morpion\\Morpion.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-26T11:11:40.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T11:11:40.64Z"
             }
           ]
         }

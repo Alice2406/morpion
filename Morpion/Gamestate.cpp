@@ -20,6 +20,10 @@ bool Gamestate::SetToken(unsigned int id, Token token)
 {
 	if (id >= 9 || id < 0)
 		throw std::out_of_range("Index out of range");
+	if (token == Token::EMPTY) {
+		tokens[id] = Token::EMPTY;
+		return true;
+	}
 	if (GetToken(id) != Token::EMPTY)
 		return false;
 	tokens[id] = token;
