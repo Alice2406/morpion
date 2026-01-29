@@ -4,7 +4,7 @@
 #include <optional>
 
 enum class Token : char {
-	EMPTY = ' ',
+	EMPTY = '#',
 	X = 'X',
 	O = 'O'
 };
@@ -21,5 +21,8 @@ public :
 
 	std::optional <Token> CheckWin();
 	std::optional <Token> CheckWinRow(unsigned int a, unsigned int b, unsigned c);
+
+	bool isFull();
+	std::string ToString();
 };
 

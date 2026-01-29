@@ -1,17 +1,29 @@
 #include <iostream>
 #include "Gamestate.h"
+#include "Opponent.h"
+#include "Player.h"
+#include "IA.h"
 
+using namespace std;
 int main()
 {
 	Gamestate state;
 
-	try
+	Opponent *opponent = new Player;
+	Opponent *opponent2 = new IA;
+
+	while (!state.isFull())
 	{
-		state.GetToken(100);
+		state = opponent->Play(state);
+		cout << state.ToString() << endl;
+		if (state.CheckWin())
+			break;
+		state = opponent2->Play(state);
+		cout << state.ToString() << endl;
+		if (state.CheckWin())
+			break;
 	}
-	catch (std::exception ex)
-	{
-		std::cout << ex.what() << std::endl;
-	}
+
+
 	return 0;
 }

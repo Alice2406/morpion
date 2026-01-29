@@ -126,10 +126,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Gamestate.cpp" />
+    <ClCompile Include="IA.cpp" />
     <ClCompile Include="Morpion.cpp" />
+    <ClCompile Include="Opponent.cpp" />
+    <ClCompile Include="Player.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Gamestate.h" />
+    <ClInclude Include="IA.h" />
+    <ClInclude Include="Opponent.h" />
+    <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
